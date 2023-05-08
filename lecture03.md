@@ -1,5 +1,20 @@
 
 # 第三回課題
+* アプリケーションデプロイ１
+<img width="960" alt="2023-05-07 copy" src="https://user-images.githubusercontent.com/130133554/236781302-53e38cbd-1777-4fb4-b639-55c9b869a629.png">
+
+* アプリケーションデプロイ２
+<img width="960" alt="2023-05-07 copy2" src="https://user-images.githubusercontent.com/130133554/236781968-833d0537-e7fd-46b9-b946-58ec2d901a51.png">
+
+* DBサーバー停止後の挙動
+<img width="960" alt="2023-05-08cp3" src="https://user-images.githubusercontent.com/130133554/236782056-3111c4d8-32c7-4d60-80d6-e244cece7403.png">
+
+* APサーバー停止後の挙動
+<img width="960" alt="2023-05-08cp4" src="https://user-images.githubusercontent.com/130133554/236782097-02d278f7-cc69-4686-8317-174b01ea7fa8.png">
+
+* APサーバー,DBサーバー再起動後の挙動
+<img width="960" alt="2023-05-08cp5" src="https://user-images.githubusercontent.com/130133554/236782119-e75840e8-dcec-4663-97b9-397959c64703.png">
+
 * AP サーバーについて調べてみましょう。
 * AP サーバーの名前とバージョンを確認してみましょう。
 * AP サーバーを終了させた場合、引き続きアクセスできますか？結果を確認して、また AP サー
