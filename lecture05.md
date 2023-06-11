@@ -1,32 +1,32 @@
 # 第五回提出
 
 ## Pumaでのデプロイ
-![puma](/Raise-Tech/lecture05-picture/lec5_puma.png)
+![puma](/lecture05-picture/lec5_puma.png)
 
 ## Nginx導入
 
-![nginx](/Raise-Tech/lecture05-picture/lec5_nginx.png)
-![nginx2](/Raise-Tech/lecture05-picture/lec5_nginx2.png)
+![nginx](/lecture05-picture/lec5_nginx.png)
+![nginx2](/lecture05-picture/lec5_nginx2.png)
 
 ## Unicorn起動
 
-![unicorn](/Raise-Tech/lecture05-picture/lec5_unicorn.png)
+![unicorn](/lecture05-picture/lec5_unicorn.png)
 
 ## Nginx+Unicorn
 
-![nginx+unicorn](/Raise-Tech/lecture05-picture/lec5_nginx_unicorn.png)
+![nginx+unicorn](/lecture05-picture/lec5_nginx_unicorn.png)
 ## ALBの設定
 
-![alb](/Raise-Tech/lecture05-picture/lec5_alb.png)
+![alb](/lecture05-picture/lec5_alb.png)
 
 ## S3の配置
 
-![s3](/Raise-Tech/lecture05-picture/lec5_s3.png)
-![s3_2](/Raise-Tech/lecture05-picture/lec5_s3_a.png)
+![s3](/lecture05-picture/lec5_s3.png)
+![s3_2](/lecture05-picture/lec5_s3_a.png)
 
 ## 構成図
 
-![構成図](/Raise-Tech/lecture05-picture/lec5_io.png)
+![構成図](/lecture05-picture/lec5_io.png)
 
 ## 感想
 
